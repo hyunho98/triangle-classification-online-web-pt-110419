@@ -26,4 +26,5 @@ class Triangle
     def message
       "this triangle is invalid"
     end
+  end
 end
